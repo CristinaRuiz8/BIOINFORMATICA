@@ -1,5 +1,0 @@
-Nombre	Apellidos	Edad	Mascotas
-Ana	Pérez Gómez	25	Luna
-Luis	Martín López	30	-
-María	Fernández Díaz	28	Calipo
-Jorge	García Núñez	35	Max
